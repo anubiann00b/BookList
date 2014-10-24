@@ -1,5 +1,9 @@
 This is a community curated list of books to read. Feel free to add your own books and submit a pull request!
 
+TODO:
+ * Move authorless books to the table.
+ * Move authors with only 1 or 2 books into the table.
+
 Author | Book
 --- | ---
 John Gunther | Taken at the Flood
@@ -21,8 +25,9 @@ Samuel Clemens | Complete Short Stories of Mark Twain
 Richard Matheson | The Last Man on Earth
 Chuck Klosterman | Sex, Drugs, and Cocoa Puffs
 Orson Scott Card | Ender's Game
+Richard Matheson | I Am Legend
 
-Authorless books (we need to add them to the list above).
+Books
  * Marketing > Product
  * The Art of Readable Writing
  * Art of War
@@ -36,9 +41,8 @@ Authorless books (we need to add them to the list above).
  * Measure for Measure
  * Taming of the Shrew
  * Farewell to Arms
- * I am Legend
 
-Authors: If authors only have a couple of books, add them to the table, otherwise leave them here.
+Authors
  * Phillip K Dick
  * Elmore Leanord
  * Louis L'Amour
