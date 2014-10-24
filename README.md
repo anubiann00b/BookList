@@ -15,6 +15,7 @@ Cialdini, Robert | Influence: The Psychology of Persuasion |
 Clemens, Samuel | Complete Short Stories of Mark Twain | 
 Flesch, Rudolf | The Art of Readable Writing | Writing
 Gunther, John | Taken at the Flood | 
+Horowitz, Ben | The Hard Thing About Hard Things | Startup
 Klosterman, Chuck | Sex, Drugs, and Cocoa Puffs | 
 Kosinski, Jerzey | Being There | 
 L'Amour, Louis | Hondo | 
