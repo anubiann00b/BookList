@@ -2,10 +2,11 @@ This is a community curated list of books to read. Feel free to add your own boo
 
 TODO:
  * Move authorless books to the table.
+ * Complete topics.
  * Move authors with only 1 or 2 books into the table.
 
 Author | Book | Topic
---- | ---
+--- | --- | ---
 John Gunther | Taken at the Flood | 
 Robert Cialdini | Influence: The Psychology of Persuasion | 
 Mihael Lermontov | A Hero of Our Time | 
@@ -17,14 +18,14 @@ Louis L'Amour | Hondo |
 Jerzey Kosinski | Being There | 
 Ayn Rand | The Fountainhead | 
 George R. Stewart | Earth Abides | Post-apocalyptic society
-George R. R. Martin | A Song of Ice and Fire (series) | [intense] Medieval  fiction
+George R. R. Martin | A Song of Ice and Fire (series) | Medieval  fiction
 Peter Thiel | Zero to One | Startups
 Arnold Schwarzenegger | Total Recall | 
 Isabel Allende | The House of the Spirits | 
 Samuel Clemens | Complete Short Stories of Mark Twain | 
 Richard Matheson | The Last Man on Earth | 
 Chuck Klosterman | Sex, Drugs, and Cocoa Puffs | 
-Orson Scott Card | Ender's Game | Sci-fi, children
+Orson Scott Card | Ender's Game | Sci-fi
 Richard Matheson | I Am Legend | 
 
 Books
