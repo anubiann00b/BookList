@@ -13,6 +13,7 @@ Camus, Albert | The Stranger | Existantialism
 Card, Orson Scott | Ender's Game | Sci-fi
 Cialdini, Robert | Influence: The Psychology of Persuasion | 
 Clemens, Samuel | Complete Short Stories of Mark Twain | 
+Flesch, Rudolf | The Art of Readable Writing | Writing
 Gunther, John | Taken at the Flood | 
 Klosterman, Chuck | Sex, Drugs, and Cocoa Puffs | 
 Kosinski, Jerzey | Being There | 
@@ -30,7 +31,6 @@ Thompson, Hunter | Kingdom of Fear |
 
 Books
  * Marketing > Product
- * The Art of Readable Writing
  * Art of War
  * Elements of Style
  * A Movable Feast
