@@ -4,28 +4,28 @@ TODO:
  * Move authorless books to the table.
  * Move authors with only 1 or 2 books into the table.
 
-Author | Book
+Author | Book | Topic
 --- | ---
-John Gunther | Taken at the Flood
-Robert Cialdini | Influence: The Psychology of Persuasion
-Mihael Lermontov | A Hero of Our Time
-Albert Camus | The Stranger
-Robert Olen Butler | From Where You Dream
-Hunter Thompson | Kingdom of Fear
-Elmore Leanord | Rum Punch
-Louis L'Amour | Hondo
-Jerzey Kosinski | Being There
-Ayn Rand | The Fountainhead
-George R. Stewart | Earth Abides
-George R. R. Martin | A Song of Ice and Fire (series)
-Peter Thiel | Zero to One
-Arnold Schwarzenegger | Total Recall
-Isabel Allende | The House of the Spirits
-Samuel Clemens | Complete Short Stories of Mark Twain
-Richard Matheson | The Last Man on Earth
-Chuck Klosterman | Sex, Drugs, and Cocoa Puffs
-Orson Scott Card | Ender's Game
-Richard Matheson | I Am Legend
+John Gunther | Taken at the Flood | 
+Robert Cialdini | Influence: The Psychology of Persuasion | 
+Mihael Lermontov | A Hero of Our Time | 
+Albert Camus | The Stranger | Existantialism
+Robert Olen Butler | From Where You Dream | 
+Hunter Thompson | Kingdom of Fear | 
+Elmore Leanord | Rum Punch | 
+Louis L'Amour | Hondo | 
+Jerzey Kosinski | Being There | 
+Ayn Rand | The Fountainhead | 
+George R. Stewart | Earth Abides | Post-apocalyptic society
+George R. R. Martin | A Song of Ice and Fire (series) | [intense] Medieval  fiction
+Peter Thiel | Zero to One | Startups
+Arnold Schwarzenegger | Total Recall | 
+Isabel Allende | The House of the Spirits | 
+Samuel Clemens | Complete Short Stories of Mark Twain | 
+Richard Matheson | The Last Man on Earth | 
+Chuck Klosterman | Sex, Drugs, and Cocoa Puffs | 
+Orson Scott Card | Ender's Game | Sci-fi, children
+Richard Matheson | I Am Legend | 
 
 Books
  * Marketing > Product
