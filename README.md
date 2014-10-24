@@ -7,26 +7,26 @@ TODO:
 
 Author | Book | Topic
 --- | --- | ---
-John Gunther | Taken at the Flood | 
-Robert Cialdini | Influence: The Psychology of Persuasion | 
-Mihael Lermontov | A Hero of Our Time | 
-Albert Camus | The Stranger | Existantialism
-Robert Olen Butler | From Where You Dream | 
-Hunter Thompson | Kingdom of Fear | 
-Elmore Leanord | Rum Punch | 
-Louis L'Amour | Hondo | 
-Jerzey Kosinski | Being There | 
-Ayn Rand | The Fountainhead | 
-George R. Stewart | Earth Abides | Post-apocalyptic society
-George R. R. Martin | A Song of Ice and Fire (series) | Medieval  fiction
-Peter Thiel | Zero to One | Startups
-Arnold Schwarzenegger | Total Recall | 
-Isabel Allende | The House of the Spirits | 
-Samuel Clemens | Complete Short Stories of Mark Twain | 
-Richard Matheson | The Last Man on Earth | 
-Chuck Klosterman | Sex, Drugs, and Cocoa Puffs | 
-Orson Scott Card | Ender's Game | Sci-fi
-Richard Matheson | I Am Legend | 
+Allende, Isabel | The House of the Spirits | 
+Butler, Robert Olen | From Where You Dream | 
+Camus, Albert | The Stranger | Existantialism
+Card, Orson Scott | Ender's Game | Sci-fi
+Cialdini, Robert | Influence: The Psychology of Persuasion | 
+Clemens, Samuel | Complete Short Stories of Mark Twain | 
+Gunther, John | Taken at the Flood | 
+Klosterman, Chuck | Sex, Drugs, and Cocoa Puffs | 
+Kosinski, Jerzey | Being There | 
+L'Amour, Louis | Hondo | 
+Leanord, Elmore | Rum Punch | 
+Lermontov, Mihael | A Hero of Our Time | 
+Martin, George R. R. | A Song of Ice and Fire (series) | Medieval  fiction
+Matheson, Richard | I Am Legend | 
+Matheson, Richard | The Last Man on Earth | 
+Rand, Ayn | The Fountainhead | 
+Schwarzenegger, Arnold | Total Recall | 
+Stewart, George R. | Earth Abides | Post-apocalyptic society
+Thiel, Peter | Zero to One | Startups
+Thompson, Hunter | Kingdom of Fear | 
 
 Books
  * Marketing > Product
