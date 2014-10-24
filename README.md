@@ -1,5 +1,6 @@
 This is a community curated list of books to read. Feel free to add your own books and submit a pull request!
 
+Author | Book
 --- | ---
 John Gunther | Taken at the Flood
 Robert Cialdini | Influence: The Psychology of Persuasion
@@ -21,30 +22,30 @@ Richard Matheson | The Last Man on Earth
 Chuck Klosterman | Sex, Drugs, and Cocoa Puffs
 Orson Scott Card | Ender's Game
 
---- | ---
-Marketing > Product
-The Art of Readable Writing
-Art of War
-Elements of Style
-A Movable Feast
-Flow My Tears, the Policeman Said
-Do Android Dream of Electric Sheep
-Fight Club
-Train to Crazy Man
-Freaky Deaky
-Measure for Measure
-Taming of the Shrew
-Farewell to Arms
-I am Legend
+Authorless books (we need to add them to the list above).
+ * Marketing > Product
+ * The Art of Readable Writing
+ * Art of War
+ * Elements of Style
+ * A Movable Feast
+ * Flow My Tears, the Policeman Said
+ * Do Android Dream of Electric Sheep
+ * Fight Club
+ * Train to Crazy Man
+ * Freaky Deaky
+ * Measure for Measure
+ * Taming of the Shrew
+ * Farewell to Arms
+ * I am Legend
 
---- | ---
-Phillip K Dick
-Elmore Leanord
-Louis L'Amour
-Hitchcock
-Truffaut
-S. J. Perelman
-Faulkner
-Hemingway
-Mark Twain
-Edgar Allen Poe
+Authors: If authors only have a couple of books, add them to the table, otherwise leave them here.
+ * Phillip K Dick
+ * Elmore Leanord
+ * Louis L'Amour
+ * Hitchcock
+ * Truffaut
+ * S. J. Perelman
+ * Faulkner
+ * Hemingway
+ * Mark Twain
+ * Edgar Allen Poe
